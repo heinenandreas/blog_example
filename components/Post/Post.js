@@ -20,6 +20,7 @@ const Container = styled.article`
   border: 2px solid #0d3b66;
   border-radius: 8px;
   background-color: #faf0ca;
+  box-shadow: -4px 1px 14px 0px rgba(0, 0, 0, 0.3);
 `;
 
 const Title = styled.h3`
